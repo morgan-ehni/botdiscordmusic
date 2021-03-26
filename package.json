@@ -1,0 +1,23 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "bot discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "momo",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.0",
+    "discord-ytdl-core": "^5.0.2",
+    "discord.js": "^12.5.1",
+    "ffmpeg-static": "^4.2.8",
+    "opusscript": "0.0.8",
+    "ytdl-core": "^4.5.0"
+  }
+}
